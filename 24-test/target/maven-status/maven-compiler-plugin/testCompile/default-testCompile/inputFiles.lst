@@ -1,0 +1,14 @@
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/restaurant/JdbcRestaurantRepositoryTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/LoggingBeanPostProcessor.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/StubRewardRepository.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/SimpleJndiHelper.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/TestInfrastructureJndiConfig.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/TestInfrastructureLocalConfig.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/TestInfrastructureConfig.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/RewardNetworkTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/account/AccountTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/account/JdbcAccountRepositoryTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/RewardNetworkImplTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/24-test/src/test/java/rewards/internal/StubAccountRepository.java

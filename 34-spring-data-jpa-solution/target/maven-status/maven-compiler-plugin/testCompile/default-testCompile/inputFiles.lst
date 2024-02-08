@@ -1,0 +1,8 @@
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/StubAccountRepository.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/RewardNetworkTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/account/AccountTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/StubRestaurantRepository.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/reward/JdbcRewardRepositoryTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/StubRewardRepository.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/restaurant/RestaurantTests.java
+/home/falcon9/IdeaProjects/core-spring-labfiles/lab/34-spring-data-jpa-solution/src/test/java/rewards/internal/RewardNetworkImplTests.java
